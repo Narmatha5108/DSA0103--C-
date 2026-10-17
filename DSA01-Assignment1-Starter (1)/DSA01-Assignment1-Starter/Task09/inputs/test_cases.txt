@@ -1,3 +1,0 @@
-Inner off-peak: hour 11, balance 10000 paise
-Middle peak: hour 9, balance 10000 paise
-Outer peak: hour 18, balance 10000 paise
